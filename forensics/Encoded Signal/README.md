@@ -39,7 +39,7 @@ Each line sync pulse lasting 20 ms acts like a carriage return in the image. The
 
 ### SSTV Decoding with MMSSTV
 
-For a deeper understanding of SSTV decoding, refer to the [SSTV Handbook](https://www.sstv-handbook.com/download/sstv-handbook.pdf). Here we decode using [MMSSTV](https://hamsoft.ca/pages/mmsstv.php) (Windows-only; Linux users can try [QSSTV](https://github.com/ON4QZ/QSSTV) or [rx-sstv](https://github.com/ON4QZ/rx-sstv)):
+For a deeper understanding of SSTV decoding, refer to the [SSTV Handbook](https://www.sstv-handbook.com/download/sstv-handbook.pdf). Here we decode using [MMSSTV](https://hamsoft.ca/pages/mmsstv.php) (Windows-only; Linux users can try [QSSTV](https://github.com/ON4QZ/QSSTV) or [slowrx](https://github.com/windytan/slowrx)):
 
 ---
 Pre processing steps on wav file:
